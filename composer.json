@@ -1,5 +1,5 @@
 {
-  "name": "codedge/laravel-selfupdater",
+  "name": "genkan-org/laravel-self-updater",
   "description": "Providing an auto-updating functionality for your self-hosted Laravel application.",
   "license": "MIT",
   "keywords": [
@@ -22,6 +22,9 @@
       "email": "holger.loesken@codedge.de",
       "homepage": "http://codedge.de",
       "role": "Developer"
+    },
+    {
+      "name": "ash123456789"
     }
   ],
   "autoload": {
